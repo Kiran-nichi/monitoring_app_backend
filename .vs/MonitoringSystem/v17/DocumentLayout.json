@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|c:\\users\\nichiuser\\source\\repos\\monitoringsystem\\monitoringsystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|solutionrelative:monitoringsystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|c:\\users\\nichiuser\\source\\repos\\monitoringsystem\\monitoringsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|solutionrelative:monitoringsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|c:\\users\\nichiuser\\source\\repos\\monitoringsystem\\monitoringsystem\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|solutionrelative:monitoringsystem\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|c:\\users\\nichiuser\\source\\repos\\monitoringsystem\\monitoringsystem\\data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|solutionrelative:monitoringsystem\\data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|c:\\users\\nichiuser\\source\\repos\\monitoringsystem\\monitoringsystem\\dto\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|solutionrelative:monitoringsystem\\dto\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|c:\\users\\nichiuser\\source\\repos\\monitoringsystem\\monitoringsystem\\dto\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|solutionrelative:monitoringsystem\\dto\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|c:\\users\\nichiuser\\source\\repos\\monitoringsystem\\monitoringsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|solutionrelative:monitoringsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|c:\\users\\nichiuser\\source\\repos\\monitoringsystem\\monitoringsystem\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|solutionrelative:monitoringsystem\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|c:\\users\\nichiuser\\source\\repos\\monitoringsystem\\monitoringsystem\\repositories\\interfaces\\istatusindicatorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|solutionrelative:monitoringsystem\\repositories\\interfaces\\istatusindicatorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|c:\\users\\nichiuser\\source\\repos\\monitoringsystem\\monitoringsystem\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|solutionrelative:monitoringsystem\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|c:\\users\\nichiuser\\source\\repos\\monitoringsystem\\monitoringsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|solutionrelative:monitoringsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|c:\\users\\nichiuser\\source\\repos\\monitoringsystem\\monitoringsystem\\model\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|solutionrelative:monitoringsystem\\model\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|c:\\users\\nichiuser\\source\\repos\\monitoringsystem\\monitoringsystem\\model\\statusindicators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|solutionrelative:monitoringsystem\\model\\statusindicators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|c:\\users\\nichiuser\\source\\repos\\monitoringsystem\\monitoringsystem\\monitoringsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|solutionrelative:monitoringsystem\\monitoringsystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|c:\\users\\nichiuser\\source\\repos\\monitoringsystem\\monitoringsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BE9A2A0-497B-4026-8C38-897936465E49}|MonitoringSystem\\MonitoringSystem.csproj|solutionrelative:monitoringsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Web\\Snippets\\HTML\\1033\\HTML\\a.snippet||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "MonitoringSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\appsettings.json",
+              "RelativeToolTip": "MonitoringSystem\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-17T06:08:21.601Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MonitoringSystem\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "MonitoringSystem\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T06:48:15.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Data\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "MonitoringSystem\\Data\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Data\\DatabaseInitializer.cs",
+              "RelativeToolTip": "MonitoringSystem\\Data\\DatabaseInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T05:16:23.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\DTO\\UserRequest.cs",
+              "RelativeDocumentMoniker": "MonitoringSystem\\DTO\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\DTO\\UserRequest.cs",
+              "RelativeToolTip": "MonitoringSystem\\DTO\\UserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T11:52:05.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MonitoringSystem\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Services\\UserService.cs",
+              "RelativeToolTip": "MonitoringSystem\\Services\\UserService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T09:51:27.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\DTO\\UserResponse.cs",
+              "RelativeDocumentMoniker": "MonitoringSystem\\DTO\\UserResponse.cs",
+              "ToolTip": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\DTO\\UserResponse.cs",
+              "RelativeToolTip": "MonitoringSystem\\DTO\\UserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T11:51:55.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MonitoringSystem\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MonitoringSystem\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T06:02:56.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "MonitoringSystem\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Repositories\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "MonitoringSystem\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T09:51:16.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Model\\User.cs",
+              "RelativeDocumentMoniker": "MonitoringSystem\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Model\\User.cs",
+              "RelativeToolTip": "MonitoringSystem\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:47:34.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStatusIndicatorsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Repositories\\Interfaces\\IStatusIndicatorsRepository.cs",
+              "RelativeDocumentMoniker": "MonitoringSystem\\Repositories\\Interfaces\\IStatusIndicatorsRepository.cs",
+              "ToolTip": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Repositories\\Interfaces\\IStatusIndicatorsRepository.cs",
+              "RelativeToolTip": "MonitoringSystem\\Repositories\\Interfaces\\IStatusIndicatorsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T05:02:32.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Program.cs",
+              "RelativeDocumentMoniker": "MonitoringSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Program.cs",
+              "RelativeToolTip": "MonitoringSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T07:30:34.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Model\\Roles.cs",
+              "RelativeDocumentMoniker": "MonitoringSystem\\Model\\Roles.cs",
+              "ToolTip": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Model\\Roles.cs",
+              "RelativeToolTip": "MonitoringSystem\\Model\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T09:44:12.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StatusIndicators.cs",
+              "DocumentMoniker": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Model\\StatusIndicators.cs",
+              "RelativeDocumentMoniker": "MonitoringSystem\\Model\\StatusIndicators.cs",
+              "ToolTip": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Model\\StatusIndicators.cs",
+              "RelativeToolTip": "MonitoringSystem\\Model\\StatusIndicators.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:58:31.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MonitoringSystem.http",
+              "DocumentMoniker": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\MonitoringSystem.http",
+              "RelativeDocumentMoniker": "MonitoringSystem\\MonitoringSystem.http",
+              "ToolTip": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\MonitoringSystem.http",
+              "RelativeToolTip": "MonitoringSystem\\MonitoringSystem.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-09-11T09:19:06.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MonitoringSystem\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nichiuser\\source\\repos\\MonitoringSystem\\MonitoringSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MonitoringSystem\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-17T06:20:57.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "a.snippet",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Web\\Snippets\\HTML\\1033\\HTML\\a.snippet",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Web\\Snippets\\HTML\\1033\\HTML\\a.snippet",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Web\\Snippets\\HTML\\1033\\HTML\\a.snippet",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Web\\Snippets\\HTML\\1033\\HTML\\a.snippet",
+              "ViewState": "AgIAAAUAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002852|",
+              "WhenOpened": "2026-09-11T09:12:53.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
